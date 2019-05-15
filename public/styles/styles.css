@@ -1,203 +1,217 @@
 #first-jumbo {
-    background-color: #E1E2E2;
-    background-size: cover;
-    margin-bottom: -3rem;
-    height: 100vh; 
+  background-color: #e1e2e2;
+  background-size: cover;
+  margin-bottom: -3rem;
+  height: 100vh;
 }
 
 #contact-button {
-    z-index: 100;
-    border-radius: 20px;
-    max-height: 40px;
-    background-color: #292930; 
+  z-index: 100;
+  border-radius: 20px;
+  max-height: 40px;
+  background-color: #292930;
 }
 
 .profile-pic {
-    border-style: solid;
-    border-color: black;
-    max-width: 225px; 
-    max-height: 225px; 
+  border-style: solid;
+  border-color: black;
+  max-width: 225px;
+  max-height: 225px;
 }
 
 #contact-icon-1 {
-    height: 50px;
-    width: auto;
-    margin: 10px;
+  height: 50px;
+  width: auto;
+  margin: 10px;
 }
 
 #contact-icon-2 {
-    height: 50px;
-    width: auto;
-    margin: 10px;
+  height: 50px;
+  width: auto;
+  margin: 10px;
 }
 
 .bio-container {
-    width: 90%;
+  width: 90%;
 }
 
 #tech-container {
-    background-color: white;
-    width: 95%;
-    border-radius: 3rem;
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
-    padding-top: 20px;
-    margin-bottom: 60px; 
+  background-color: white;
+  width: 95%;
+  border-radius: 3rem;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  padding-top: 20px;
+  margin-bottom: 60px;
 }
 
 #tech-logo-1 {
-    height: 75px;
-    width: auto;
-    margin: 10px;
+  height: 75px;
+  width: auto;
+  margin: 10px;
 }
 #tech-logo-2 {
-    height: 75px;
-    width: auto;
-    margin: 10px;
+  height: 75px;
+  width: auto;
+  margin: 10px;
 }
 #tech-logo-3 {
-    height: 75px;
-    width: auto;
-    margin: 10px;
+  height: 75px;
+  width: auto;
+  margin: 10px;
 }
 #tech-logo-4 {
-    height: 75px;
-    width: auto;
-    margin: 10px;
+  height: 75px;
+  width: auto;
+  margin: 10px;
 }
 #tech-logo-5 {
-    height: 75px;
-    width: auto;
-    margin: 10px;
+  height: 75px;
+  width: auto;
+  margin: 10px;
 }
 #tech-logo-6 {
-    height: 75px;
-    width: auto;
-    margin: 10px;
+  height: 75px;
+  width: auto;
+  margin: 10px;
 }
 #tech-logo-7 {
-    height: 75px;
-    width: auto;
-    margin: 10px;
+  height: 75px;
+  width: auto;
+  margin: 10px;
 }
 #tech-logo-8 {
-    height: 75px;
-    width: auto;
-    margin: 10px;
+  height: 75px;
+  width: auto;
+  margin: 10px;
 }
 #tech-logo-9 {
-    height: 75px;
-    width: auto;
-    margin: 10px;
+  height: 75px;
+  width: auto;
+  margin: 10px;
 }
 
 #project-container-dugout {
-    background-color: white;
-    width: 80%; 
-    border-radius: 3rem;
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22); 
-    padding-top: 20px; 
-    margin-bottom: 60px; 
+  background-color: white;
+  width: 80%;
+  border-radius: 3rem;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  padding-top: 20px;
+  margin-bottom: 60px;
 }
 
 #project-container-grum {
-    background-color: white;
-    width: 80%; 
-    border-radius: 3rem;
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22); 
-    padding-top: 20px; 
-    margin-bottom: 60px; 
+  background-color: white;
+  width: 80%;
+  border-radius: 3rem;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  padding-top: 20px;
+  margin-bottom: 60px;
 }
 
 #project-container-todo {
-    background-color: white;
-    width: 80%; 
-    border-radius: 3rem;
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22); 
-    padding-top: 20px; 
-    margin-bottom: 60px; 
+  background-color: white;
+  width: 80%;
+  border-radius: 3rem;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  padding-top: 20px;
+  margin-bottom: 60px;
 }
 
 #project-container-blog {
-    background-color: white;
-    width: 80%; 
-    border-radius: 3rem;
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22); 
-    padding-top: 20px; 
-    margin-bottom: 60px; 
+  background-color: white;
+  width: 80%;
+  border-radius: 3rem;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  padding-top: 20px;
+  margin-bottom: 60px;
 }
 
 #dugout-example {
-    max-height: 75%;
-    max-width: 75%;
-    margin-bottom: 10px;
-    margin-top: 10px;
+  max-height: 75%;
+  max-width: 75%;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 #grum-example {
-    max-height: 75%;
-    max-width: 75%;
-    margin-bottom: 10px;
-    margin-top: 10px;
+  max-height: 75%;
+  max-width: 75%;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 #todo-example {
-    max-height: 75%;
-    max-width: 75%;
-    margin-bottom: 10px;
-    margin-top: 10px;
+  max-height: 75%;
+  max-width: 75%;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 #blog-example {
-    max-height: 75%;
-    max-width: 75%;
-    margin-bottom: 10px;
-    margin-top: 10px;
+  max-height: 75%;
+  max-width: 75%;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 #site-button-1 {
-    background-color: #292930; height: 50px; color: white;
+  background-color: #292930;
+  height: 50px;
+  color: white;
 }
 
 #code-button-1 {
-    background-color: #292930; height: 50px; color: white;
+  background-color: #292930;
+  height: 50px;
+  color: white;
 }
 
 #site-button-2 {
-    background-color: #292930; height: 50px; color: white;
+  background-color: #292930;
+  height: 50px;
+  color: white;
 }
 
 #code-button-2 {
-    background-color: #292930; height: 50px; color: white;
+  background-color: #292930;
+  height: 50px;
+  color: white;
 }
 
 #site-button-3 {
-    background-color: #292930; height: 50px; color: white;
+  background-color: #292930;
+  height: 50px;
+  color: white;
 }
 
 #code-button-3 {
-    background-color: #292930; height: 50px; color: white;
+  background-color: #292930;
+  height: 50px;
+  color: white;
 }
 
 #site-button-4 {
-    background-color: #292930; height: 50px; color: white;
+  background-color: #292930;
+  height: 50px;
+  color: white;
 }
 
 #code-button-4 {
-    background-color: #292930; height: 50px; color: white;
+  background-color: #292930;
+  height: 50px;
+  color: white;
 }
 
 #body-bg {
-    background-color: #EE7879;
+  background-color: #ee7879;
 }
 
 #bio-text {
-    padding-bottom: 20px;
+  padding-bottom: 20px;
 }
 
-
- @media screen and (max-width: 800px) {
-    #first-jumbo {
+@media screen and (max-width: 800px) {
+  #first-jumbo {
     height: auto;
-                  
-     }
+  }
 }
